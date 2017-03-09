@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "785B7854D0EE74149C6217A728978FB6C3140F26",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E0E28C3D8E0D8ED4AD5DB0E2560561D270F2F740" : 9223372036854775807,
+    "785B7854D0EE74149C6217A728978FB6C3140F26" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "07D96690-2D59-4E7E-9AA6-B8FBFBCF88DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E0E28C3D8E0D8ED4AD5DB0E2560561D270F2F740" : "",
+    "785B7854D0EE74149C6217A728978FB6C3140F26" : "TheBestApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TheBestApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TheBestApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FDosoriosarmiento\/TestiOSRappi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "785B7854D0EE74149C6217A728978FB6C3140F26"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FDosoriosarmiento\/TestiOSRappi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0E28C3D8E0D8ED4AD5DB0E2560561D270F2F740"
+    }
+  ]
+}
